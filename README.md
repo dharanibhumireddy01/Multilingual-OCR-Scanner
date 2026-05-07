@@ -1,6 +1,6 @@
 # Multilingual OCR Document Scanner
 
-![Tests](https://github.com/dharanibhumireddy01/multilingual-ocr-scanner/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/dharanibhumireddy01/Multilingual-OCR-Scanner/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green)
 ![Accuracy](https://img.shields.io/badge/accuracy-89%25-orange)
@@ -321,7 +321,7 @@ If you install to a different location, update `TESSERACT_CMD` in `src/config.py
 ### Install Python Dependencies
 
 ```bash
-git clone https://github.com/dharanibhumireddy01/multilingual-ocr-scanner.git
+git clone https://github.com/dharanibhumireddy01/Multilingual-OCR-Scanner.git
 cd multilingual-ocr-scanner
 pip install -r requirements.txt
 ```
