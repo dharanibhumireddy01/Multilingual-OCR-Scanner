@@ -6,10 +6,6 @@
 ![Accuracy](https://img.shields.io/badge/accuracy-89%25-orange)
 
 **Author:** Dharani Bhumireddy
-**B.Tech ECE** — SCSVMV University, Kanchipuram · GPA 3.8 · Graduated 2023
-**MS Data Science** — University at Albany, SUNY · GPA 3.7
-**Contact:** dharanibhumireddy.ds@gmail.com
-**LinkedIn:** [linkedin.com/in/dharani-bhumireddy](https://linkedin.com/in/dharani-bhumireddy)
 
 ---
 
@@ -459,7 +455,4 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-*Originally developed as a B.Tech ECE final year project (2023) at SCSVMV University.*
-*Extended with CNN support, multilingual capability, and production-grade structure as part of MS Data Science portfolio work at University at Albany, SUNY (2026).*
 
-*Author: Dharani Bhumireddy*
